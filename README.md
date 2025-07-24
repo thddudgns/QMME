@@ -6,7 +6,4 @@ Data and code are organized into clear folders: raw bias‑corrected GCM CSVs an
 
 Getting started is straightforward: clone the repo, install dependencies, drop your EQM‑corrected CSVs and weight file into data/, and execute the build and training scripts as documented. Visualization notebooks make it easy to compare how each method reproduces both central tendencies and extreme events.
 
-If you find this framework useful for your own climate or hydrological modeling work, please cite:
-Song, Y. H., Shiru, M. S., & Chung, E.‑S. (2025). A Novel Quintile Multi‑Model Ensemble Approach for Improving Future Extreme Precipitation Projections Using XGBoost.
-
 Contributions-whether adding new bias‑correction techniques, extending to other variables, or improving training pipelines are very welcome via issues or pull requests. This project is released under the MIT License.
